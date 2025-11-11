@@ -47,7 +47,7 @@ class _EmojiMoodCounterState extends State<EmojiMoodCounter> {
       appBar: AppBar(
         title: Text("Emoji Mood Counter"),
         centerTitle: true,
-        backgroundColor: Colors.black87,
+        backgroundColor: Colors.white,
       ),
       body: Center(
         child: Column(
